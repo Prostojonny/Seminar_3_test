@@ -40,3 +40,16 @@ Git add
 ![картинка](https://adonius.club/uploads/posts/2022-06/1655552708_35-adonius-club-p-koshechki-sobachki-geroi-krasivo-foto-37.jpg)
 
 [работа с markdown](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html?ysclid=lel9lqj3d5782676313)
+
+## Работа со списками
+
+1. one
+2. two
+
+*
+*
++
++
+-
+-
+
