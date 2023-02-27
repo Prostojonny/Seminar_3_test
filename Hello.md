@@ -43,13 +43,16 @@ Git add
 [работа с markdown](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html?ysclid=lel9lqj3d5782676313)
 
 ## Работа со списками
+чтобы создать нумерованные списки, нужно поставить цифру и точку (1.), например:
 
 1. Первый курс
 2. Второй курс
 3. Третий курс
 
+Чтобы создать точечное нумерование, нужно поставить (*), например:
 * Вводный
 * Введение в специальность
+
 + Лекции
 + Семинары
 - Учебная практика
